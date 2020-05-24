@@ -5,6 +5,7 @@
 # Added another line for more commit practices
 
 # More text???
+  - Adding a small change to the master branch for dual commit merge
 
 - Sample data from GitHub edit
 
