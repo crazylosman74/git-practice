@@ -17,3 +17,5 @@
   Some additional git merge content for merge-demo branch
 
 - This is content in master after the merge-demo merge
+
+- Additional material on the redux side for dual commit merge
