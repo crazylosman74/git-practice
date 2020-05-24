@@ -11,3 +11,5 @@
 - 2nd sample data from GitHub commit
 
 - Final example data from local repo
+
+- Git merge lab content
